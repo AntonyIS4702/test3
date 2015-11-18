@@ -65,12 +65,15 @@
     <Compile Include="XtraForm1.Designer.cs">
       <DependentUpon>XtraForm1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="XtraForm2.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="XtraForm2.Designer.cs">
       <DependentUpon>XtraForm2.cs</DependentUpon>
     </Compile>
+=======
+>>>>>>> 34e5d104a53029bd3c08c001937e5db3520ad31d
     <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -84,9 +87,12 @@
     <EmbeddedResource Include="XtraForm1.resx">
       <DependentUpon>XtraForm1.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="XtraForm2.resx">
       <DependentUpon>XtraForm2.cs</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> 34e5d104a53029bd3c08c001937e5db3520ad31d
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

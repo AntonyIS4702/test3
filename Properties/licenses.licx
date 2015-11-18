@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+=======
+DevExpress.Patch.InMemoryPatch, DevExpress.Patch.Common, Version=6.1.0.0, Culture=neutral, PublicKeyToken=7fc7bfca2443de66
+DevExpress.XtraGrid.GridControl, DevExpress.XtraGrid.v10.1, Version=10.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a
+
+>>>>>>> 34e5d104a53029bd3c08c001937e5db3520ad31d

@@ -15,5 +15,13 @@ namespace WindowsFormsApplication2
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+=======
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("Hi");
+        }
+>>>>>>> 34e5d104a53029bd3c08c001937e5db3520ad31d
     }
 }
